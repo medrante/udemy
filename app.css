@@ -1,0 +1,16 @@
+h1 {
+  color: rgba(0,200,100,0.8);
+  border-color: purple;
+  border-width: 2px;
+  border-style: solid;
+}
+
+h4 {
+  background: rgb(255,100,80);
+}
+
+body {
+  background: pink;
+  /* background: url(https://wallpaperclicker.com/storage/wallpaper/Beautiful-South-Korea-Wallpapers-19917998.jpg); */
+}
+
